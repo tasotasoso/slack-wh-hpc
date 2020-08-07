@@ -1,4 +1,4 @@
-![test](https://github.com/tasotasoso/slack-wh-hpc/workflows/.github/workflows/python-publish.yml/badge.svg)
+![UT by github action](https://github.com/tasotasoso/slack-wh-hpc/workflows/Python%20package/badge.svg)
 
 # slack-wh-hpc
 
