@@ -1,3 +1,5 @@
+![](https://github.com/<OWNER>/<REPOSITORY>/workflows/<WORKFLOW_NAME>/badge.svg)
+
 # slack-wh-hpc
 
 Slack incoming-webhook client tool for people doing high performance computing.
