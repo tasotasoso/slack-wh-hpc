@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="slack-wh-hpc",
-    version="0.1.1",
+    version="1.0.0",
     description="Slack incoming-webhook client tool for people doing high performance computing",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
